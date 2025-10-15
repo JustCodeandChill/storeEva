@@ -3,7 +3,7 @@ This is the project
 - Username: Ana, password: a123
 - card number: 123, cvv: 123
 
-  SQL script
+!! SQL script: Connection at port 3307. database libraryPro
   create database libraryPro;
 
 use libraryPro;
